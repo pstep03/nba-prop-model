@@ -8,10 +8,10 @@ generate data-driven over/under verdicts.
 
 ## Tools and Technologies
 ### Python
-- nba_api — game log data across multiple seasons
-- pandas — data manipulation and cleaning
-- numpy — statistical calculations
-- scipy — normal distribution probability modeling
+- nba_api - game log data across multiple seasons
+- pandas - data manipulation and cleaning
+- numpy - statistical calculations
+- scipy - normal distribution probability modeling
 
 ## How It Works
 1. Pulls 3 seasons of game logs via the NBA API
